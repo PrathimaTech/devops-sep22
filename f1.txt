@@ -1,2 +1,3 @@
 this is file1
 this line is for git 3 way merge demo in feature commit -1
+git 3 way merger commit 2

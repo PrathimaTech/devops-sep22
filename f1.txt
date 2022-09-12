@@ -1,1 +1,2 @@
 this is file1
+git 3 way merge commit in master or main branch

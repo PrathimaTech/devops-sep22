@@ -4,3 +4,4 @@ b=$2
 c=a+b
 addtion of two numbers is c: $c
 multiplication of two numbers are c: $a*$b
+substraction of two numbers are c: $a-$b
